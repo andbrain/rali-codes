@@ -1,0 +1,107 @@
+#include <iostream>
+#include <cstdio>
+#include <vector>
+#include <cstring>
+#include <string>
+#include <sstream>
+#include <cstdlib>
+
+using namespace std;
+
+void Tokenizer(vector<int> *t, char* seq)
+{
+  	char * pch;
+
+  	pch = strtok(seq," ,.-");
+	while (pch != NULL)
+	{
+		//printf ("%s\n",pch);
+		t->push_back(atoi(pch));
+		pch = strtok (NULL, " ,.-");
+	}
+}
+
+int shellSort(vector<int> *numbers, int array_size)
+{
+	int i, j, increment, temp;
+	int counter=0;
+
+	increment = 3;
+
+	while (increment > 0)
+	{
+		for (i=0; i < array_size; i++)
+		{
+			j = i;
+			temp = numbers->at(i);
+			while ((j >= increment) && (numbers->at(j-increment) > temp))
+			{
+				numbers->at(j) = numbers->at(j - increment);
+				j = j - increment;
+				counter++;
+			}
+			numbers->at(j) = temp;
+		}
+
+		if (increment/2 != 0)
+			increment = increment/2;
+		else if (increment == 1)
+			increment = 0;
+		else
+			increment = 1;
+	}
+
+	return counter;
+}
+
+int bubblesort(vector<int> *vetor)
+{ 
+	int counter = 0;
+	int aux;
+	for(int x = 0; x < vetor->size(); x++ )
+	{
+		for(int y = x + 1; y < vetor->size(); y++ ) // sempre 1 elemento à frente
+		{
+			if ( vetor->at(x) > vetor->at(y) )
+			{
+				aux = vetor->at(x);
+				vetor->at(x) = vetor->at(y);
+				vetor->at(y) = aux;
+				counter++;
+			}
+		}
+	}
+
+	return counter;
+}
+
+int sort(vetor<int> *vetor)
+{
+	int counter = 0;
+
+	
+
+	return counter;
+}
+
+int main()
+{
+	int num=3;
+	int tam = 1000;
+	char sequencia[tam];
+	vector<int> tokens;
+	int counter;
+
+	do
+	{
+		fgets(sequencia, tam, stdin);
+		Tokenizer(&tokens, (char*)sequencia);	
+		//counter = shellSort(&tokens, 5);
+		counter = bubblesort(&tokens);
+		cout << "counter: " << counter << endl;
+		num = tokens.at(0);
+		tokens.clear();
+	}while(num != 0);    	
+
+	return 0;
+}

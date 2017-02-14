@@ -1,0 +1,57 @@
+#include <stdio.h>
+
+int main(){
+
+  int a[100];
+  int b[100];
+  int c[51];
+  int i[51];
+  int e,d,f,g,t;
+  
+  scanf("%d",&e);
+  
+  for(t=0;t<e;t++){
+  
+    scanf("%d",&f);
+
+    for(d=0;d<f;d++)
+    {  
+      scanf("%d %d",&a[d],&b[d]);
+    }
+
+    for(d=0;d<51;d++)
+    {
+      c[d]=0;
+      i[d]=0;
+    }
+
+    for(d=0;d<f;d++)
+    {
+      for(g=51;g>=1;g--)
+      {
+        if(b[d]<=g){
+           if(c[g-b[d]]+a[d]>c[g]){
+               c[g]=c[g-b[d]]+a[d];
+               i[g]=i[g-b[d]]+1;
+           }
+       }
+      }
+    }
+    printf("%d brinquedos\n",c[50]);
+    for(g=0,d=49;d>=0;d--){
+      if(c[d] < c[50])
+      {
+         printf("Peso: %d kg\n",d+1);
+         g=1;
+         d=-1;
+      }
+    }
+    
+    if(g==0)
+    {
+      printf("Peso: 0 kg\n");
+    }
+
+    printf("sobra(m) %d pacote(s)\n",f-i[50]);
+  }
+}

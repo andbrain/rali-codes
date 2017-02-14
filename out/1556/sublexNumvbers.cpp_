@@ -1,0 +1,67 @@
+#include <iostream>
+#include <cstdio>
+#include <stack>
+
+using namespace std;
+
+void copia(stack<int>s, stack<int> *d)
+{
+	while(!s.empty()) 
+	{
+		d->push(s.top());
+		s.pop();
+	}
+}
+
+void printStack(stack<int> pilha)
+{
+	stack<int> p;
+	copia(pilha,&p);
+
+	while(!p.empty()) {
+		printf("%d ", p.top());
+		p.pop();
+	}
+	printf("\n");
+}
+
+void subLexStack(int n)
+{
+	stack<int> pilha;
+	int init = 1;
+	
+	//primeiro elemento
+	pilha.push(init);
+	printStack(pilha);
+
+	while(!pilha.empty() || init < n-1)
+	{
+		if(init < n)
+		{
+			pilha.push(++init);
+			printStack(pilha);
+		}
+		else
+		{
+			pilha.pop();
+			init = pilha.top();
+			pilha.pop();
+		}
+	}
+
+	//ultimo elemento
+	pilha.push(n);
+	printStack(pilha);
+}
+
+
+int main()
+{
+
+	int n;
+
+	cin >> n;
+	subLexStack(n);
+
+	return 0;
+}

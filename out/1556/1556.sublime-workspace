@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fie",
+				"field_before"
+			],
+			[
+				"fou",
+				"found_before"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"pro",
+				"product_size"
+			],
+			[
+				"Get",
+				"GetEachProduct"
+			],
+			[
+				"to",
+				"total_products"
+			],
+			[
+				"data",
+				"database_file"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"Cre",
+				"CreateGraph"
+			],
+			[
+				"ma",
+				"maria"
+			],
+			[
+				"str",
+				"strToChar"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"m",
+				"media"
+			],
+			[
+				"pri",
+				"print_mutex"
+			],
+			[
+				"pr",
+				"print_mutex"
+			],
+			[
+				"cha",
+				"charToString"
+			],
+			[
+				"col",
+				"coluna1"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"In",
+				"InsereGrafo2"
+			],
+			[
+				"I",
+				"InsereGrafo1"
+			],
+			[
+				"t",
+				"tempo"
+			],
+			[
+				"v",
+				"vertice"
+			],
+			[
+				"co",
+				"cor"
+			],
+			[
+				"a",
+				"arranjo"
+			],
+			[
+				"Rem",
+				"Remove"
+			],
+			[
+				"no",
+				"nova_celula"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"p",
+				"proximo"
+			],
+			[
+				"ge",
+				"getValues"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"authen",
+				"authentication_token"
+			],
+			[
+				"au",
+				"auth_token"
+			],
+			[
+				"auth",
+				"auth_token"
+			],
+			[
+				"aut",
+				"auth_token"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"conte",
+				"content_type"
+			],
+			[
+				"en",
+				"encrypted_password"
+			],
+			[
+				"ar",
+				"$array〔variable〕"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"con",
+				"$context〔variable〕"
+			],
+			[
+				"la",
+				"layout_engine"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"bo",
+				"$book〔variable〕"
+			],
+			[
+				"book",
+				"book_path"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"json",
+				"$json_file〔variable〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"Date",
+				"DateTime〔class〕"
+			],
+			[
+				"ue",
+				"$uemail〔variable〕"
+			],
+			[
+				"poll",
+				"poll_id"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"be",
+				"before_action"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"vali",
+				"validates_presence_of〔function〕"
+			],
+			[
+				"time",
+				"timelineable"
+			],
+			[
+				"sel",
+				"self〔variable〕"
+			],
+			[
+				"after",
+				"after_save〔function〕"
+			],
+			[
+				"iss",
+				"issue"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"x",
+				"xml-	xmlread(..)"
+			],
+			[
+				"is",
+				"issue"
+			],
+			[
+				"order",
+				"order_params"
+			],
+			[
+				"issu",
+				"issues"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"isu",
+				"issues"
+			],
+			[
+				"content",
+				"content_for	content for / end erb"
+			],
+			[
+				"eve",
+				"eventos"
+			],
+			[
+				"atividade",
+				"atividade_codigo"
+			],
+			[
+				"avalica",
+				"avaliacao_atividade"
+			],
+			[
+				"desta",
+				"destaque"
+			],
+			[
+				"ev",
+				"eventos_destaque"
+			],
+			[
+				"even",
+				"eventos_model"
+			],
+			[
+				"limi",
+				"limite"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"usua",
+				"usuarios"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"da",
+				"dataMysql"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ven",
+				"venda"
+			],
+			[
+				"vendas",
+				"vendas_model"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"min",
+				"min_length"
+			],
+			[
+				"descr",
+				"descricao"
+			],
+			[
+				"for",
+				"form_validation"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"form",
+				"form_validation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/maxflow.cpp",
+			"settings":
+			{
+				"buffer_size": 460,
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/parser.h",
+			"settings":
+			{
+				"buffer_size": 586,
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/parser.cpp",
+			"settings":
+			{
+				"buffer_size": 2551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/product.h",
+			"settings":
+			{
+				"buffer_size": 192,
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/product.cpp",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix",
+				"name": "#include \"product.h\""
+			}
+		},
+		{
+			"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/client.h",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"subl",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"su",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mi",
+				"Migrations list"
+			],
+			[
+				"migra",
+				"Migrations list"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mo",
+				"Migrations list"
+			],
+			[
+				"mig",
+				"Migrations list"
+			],
+			[
+				"migr",
+				"Migrations list"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/ler.cpp_",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/Grafo.h",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/Grafo.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/EdmondKarp.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/paa/clientes.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/ler.cpp",
+		"/home/anderson/codigos/rali/out/1556/main.cpp",
+		"/home/anderson/codigos/rali/out/1556/brutal_force.cpp",
+		"/home/anderson/codigos/rali/out/1556/solucao_demorada.cpp_",
+		"/home/anderson/codigos/rali/out/1221/test",
+		"/home/anderson/codigos/rali/out/1221/main.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/paa/analizador.txt",
+		"/home/anderson/codigos/grafo2/grafo.cpp",
+		"/home/anderson/codigos/grafo2/grafo.h",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/1/source/msort.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/1/source/gem/generator.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/1/source/gem/generator.h",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/paa/lerArquivo.py",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/paa/produtos.txt",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/paa/amazon-meta.txt",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/paa/teste.txt",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/test",
+		"/home/anderson/codigos/rali/out/1329/main.cpp",
+		"/home/anderson/codigos/rali/out/1150/main.cpp",
+		"/home/anderson/codigos/rali/out/1795/main.cpp",
+		"/home/anderson/codigos/rali/out/1174/main.cpp",
+		"/home/anderson/codigos/rali/out/1329/teste",
+		"/home/anderson/codigos/rali/out/1556/1556.sublime-project",
+		"/home/anderson/codigos/pointer_list/pointer_list.sublime-project",
+		"/home/anderson/codigos/rali/out/1041/test3",
+		"/home/anderson/codigos/rali/out/1041/test2",
+		"/home/anderson/codigos/rali/out/1041/test1",
+		"/home/anderson/codigos/rali/out/1041/main.cpp",
+		"/home/anderson/codigos/rali/out/1040/test3",
+		"/home/anderson/codigos/rali/out/1040/test2",
+		"/home/anderson/codigos/rali/out/1040/test1",
+		"/home/anderson/codigos/rali/out/1040/main.cpp",
+		"/home/anderson/codigos/thread/main.cpp",
+		"/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/1/reports/scripts/a.table",
+		"/home/anderson/codigos/rali/out/1196/tay",
+		"/home/anderson/codigos/rali/out/1196/test",
+		"/home/anderson/codigos/rali/out/1196/main.cpp",
+		"/home/anderson/codigos/rali/0/1257/main.cpp",
+		"/home/anderson/codigos/rali/0/1211/main.cpp",
+		"/home/anderson/codigos/rali/0/1110/main.cpp",
+		"/home/anderson/codigos/rali/0/1173/main.cpp",
+		"/home/anderson/codigos/rali/out/1114/test",
+		"/home/anderson/codigos/rali/out/1114/main.cpp",
+		"/home/anderson/codigos/Grafos/Grafo.h",
+		"/home/anderson/codigos/Grafos/Grafo.cpp",
+		"/home/anderson/codigos/Grafos/linked_list.h",
+		"/home/anderson/codigos/grafo2/grafo.sublime-project",
+		"/home/anderson/codigos/Grafos/list.cpp",
+		"/home/anderson/codigos/Grafos/queue.cpp",
+		"/home/anderson/codigos/Grafos/grafos.sublime-project",
+		"/build/buildd/eglibc-2.19/csu/libc-start.c",
+		"/home/anderson/Downloads/codigos-mestrado-master/pointer_list/list.cpp",
+		"/home/anderson/Downloads/codigos-mestrado-master/pointer_list/list.h",
+		"/home/anderson/codigos/heap/fila_prioridade.cpp",
+		"/home/anderson/codigos/heap/fila_prioridade.h",
+		"/home/anderson/Downloads/praquerumo_dump.sql",
+		"/home/anderson/codigos/percurso",
+		"/home/anderson/codigos/stack/main.cpp",
+		"/home/anderson/codigos/stack/stack.h",
+		"/home/anderson/codigos/stack/stack.cpp",
+		"/home/anderson/codigos/stack/calculadora.h",
+		"/home/anderson/codigos/stack/calculadora.cpp",
+		"/home/anderson/codigos/pointer_list/list.h",
+		"/home/anderson/mestrado/pointer_list/list.cpp",
+		"/home/anderson/mestrado/pointer_list/pesquisa_binaria.cpp",
+		"/home/anderson/mestrado/pointer_list/pesquisa_binaria.h",
+		"/home/anderson/mestrado/pointer_list/pointer_list.sublime-project",
+		"/home/anderson/.config/sublime-text-2/Packages/User/SublimeGDB.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/anderson/mestrado/list/main.cpp",
+		"/home/anderson/mestrado/list/list.h",
+		"/home/anderson/mestrado/list/list.cpp",
+		"/home/anderson/mestrado/pilha/stack.cpp",
+		"/home/anderson/.config/sublime-text-2/Packages/C++ Snippets/reference.md",
+		"/home/anderson/mestrado/pilha/stack.h",
+		"/home/anderson/mestrado/thing.cpp",
+		"/home/anderson/mestrado/teste.cpp",
+		"/home/anderson/apps/trocados/api/config.ru",
+		"/home/anderson/apps/tests/WeAct/db/file.json",
+		"/home/anderson/apps/tests/WeAct/controller.php",
+		"/home/anderson/apps/tests/WeAct/db/.htaccess",
+		"/home/anderson/apps/tests/WeAct/.htaccess_",
+		"/home/anderson/apps/tests/sinatra/db.rb",
+		"/home/anderson/apps/tests/sinatra/Gemfile",
+		"/home/anderson/apps/tests/sinatra/views/sessions/new.erb",
+		"/home/anderson/apps/tests/sinatra/views/hello.erb",
+		"/home/anderson/apps/tests/sinatra/views/images/show.haml",
+		"/home/anderson/apps/tests/sinatra/views/layout.haml",
+		"/home/anderson/apps/tests/sinatra/views/layout.erb",
+		"/home/anderson/apps/tests/sinatra/views/images.erb",
+		"/home/anderson/apps/tests/sinatra/config.ru",
+		"/home/anderson/apps/tests/angular_http/controller.php",
+		"/home/anderson/apps/tests/angular_http/index.html",
+		"/home/anderson/apps/tests/angular_http/myEmails.txt",
+		"/home/anderson/apps/tests/angular_http/teste.html",
+		"/home/anderson/apps/tests/tutuspolls/app/views/questions/_form.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/controllers/questions_controller.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/views/questions/new.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/models/possible_answer.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/models/question.rb",
+		"/home/anderson/apps/tests/tutuspolls/db/migrate/20150210172903_create_possible_answers.rb",
+		"/home/anderson/apps/tests/tutuspolls/Gemfile",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/index.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/show.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/models/poll.rb",
+		"/home/anderson/apps/tests/tutuspolls/config/routes.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/views/questions/index.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/layouts/application.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/application/_nav.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/edit.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/_form.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/controllers/polls_controller.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/test.html.haml",
+		"/home/anderson/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/teste.html",
+		"/home/anderson/apps/tests/tutuspolls/app/assets/stylesheets/application.css",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/test.html",
+		"/home/anderson/apps/tests/tutuspolls/app/assets/javascripts/application.js",
+		"/home/anderson/apps/tests/tutuspolls/db/migrate/20150209225226_create_polls.rb",
+		"/home/anderson/apps/tests/tutuspolls/config/application.rb",
+		"/home/anderson/apps/tests/new_issues/Gemfile",
+		"/home/anderson/apps/tests/new_issues/app/models/issue.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"AAYW1H4SMNOI",
+			"Insere",
+			"s",
+			"RetornaTamanho",
+			"origem",
+			"fila",
+			");\n",
+			"vetor",
+			";\n",
+			"get \"/hello/:first_name/:last_name\" do |first,last|\n		\"Hello #{first} #{last}\"\n	",
+			"\"></",
+			"td",
+			"            \n",
+			"//\n",
+			">\n",
+			"td",
+			"></",
+			"detect_slow_plugins",
+			"../../../images/sprite.png",
+			"../../images/profile-icons.png",
+			"../../images/hotelpref-ico-green.png",
+			"../../images/hotelpref-ico.png",
+			"../../images/sprite.png",
+			"hidden",
+			"indent",
+			"text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"../images/sprite.png",
+			"../images/profile-icons.png",
+			"../images/hotelpref-ico-green.png",
+			"../images/hotelpref-ico.png",
+			"../images/sprite.png",
+			"png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/maxflow.cpp",
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/parser.h",
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/parser.cpp",
+					"settings":
+					{
+						"buffer_size": 2551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1632,
+								1632
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1425.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/product.h",
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/product.cpp",
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include \"product.h\"",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/anderson/Documentos/mestrado/01.2015/PAA/trabalho_pratico/2/client.h",
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"1556.sublime-project"
+			],
+			[
+				"",
+				"grafo.cpp"
+			],
+			[
+				"prje",
+				"grafo2/grafo.sublime-project"
+			],
+			[
+				"projec",
+				"grafo2/grafo.sublime-project"
+			],
+			[
+				"q",
+				"queue.h"
+			],
+			[
+				"li",
+				"linked_list.cpp"
+			],
+			[
+				"gra",
+				"Grafo.h"
+			],
+			[
+				"lis",
+				"list.cpp"
+			],
+			[
+				"gr",
+				"Grafo.h"
+			],
+			[
+				"pro",
+				"grafos.sublime-project"
+			],
+			[
+				"l",
+				"pointer_list.sublime-project"
+			],
+			[
+				"layou",
+				"views/layout.erb"
+			],
+			[
+				"conf",
+				"config.ru"
+			],
+			[
+				"lay",
+				"views/layout.erb"
+			],
+			[
+				"form",
+				"app/views/questions/_form.html.haml"
+			],
+			[
+				"questio",
+				"app/controllers/questions_controller.rb"
+			],
+			[
+				"pos",
+				"app/models/possible_answer.rb"
+			],
+			[
+				"ques",
+				"app/models/question.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"qustionnew",
+				"app/views/questions/new.html.haml"
+			],
+			[
+				"que",
+				"app/controllers/questions_controller.rb"
+			],
+			[
+				"poss",
+				"app/models/possible_answer.rb"
+			],
+			[
+				"question.r",
+				"app/models/question.rb"
+			],
+			[
+				"questionsin",
+				"app/views/questions/index.html.haml"
+			],
+			[
+				"pollssh",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"model",
+				"app/models/poll.rb"
+			],
+			[
+				"questionfo",
+				"app/views/questions/_form.html.haml"
+			],
+			[
+				"pollsho",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"pollsin",
+				"app/views/polls/index.html.haml"
+			],
+			[
+				"question/for",
+				"app/views/questions/_form.html.haml"
+			],
+			[
+				"question/n",
+				"app/views/questions/new.html.haml"
+			],
+			[
+				"show",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"pools",
+				"app/controllers/polls_controller.rb"
+			],
+			[
+				"view/pool",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"polls/e",
+				"app/views/polls/edit.html.haml"
+			],
+			[
+				"_f",
+				"app/views/polls/_form.html.haml"
+			],
+			[
+				"polls",
+				"app/views/polls/edit.html.haml"
+			],
+			[
+				"polls/in",
+				"app/views/polls/index.html.haml"
+			],
+			[
+				"_na",
+				"app/views/application/_nav.html.haml"
+			],
+			[
+				"appli",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"config/appl",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"assets/styl",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"config/deve",
+				"config/environments/development.rb"
+			],
+			[
+				"config",
+				"config/environment.rb"
+			],
+			[
+				"is",
+				"app/models/issue.rb"
+			],
+			[
+				"contr",
+				"app/controllers/timeline_controller.rb"
+			],
+			[
+				"timeline/",
+				"app/views/timeline/index.html.erb"
+			],
+			[
+				"con",
+				"app/controllers/timeline_controller.rb"
+			],
+			[
+				"iss",
+				"app/models/issue.rb"
+			],
+			[
+				"time",
+				"app/models/timeline.rb"
+			],
+			[
+				"for",
+				"app/views/issues/_form.html.erb"
+			],
+			[
+				"pr",
+				"app/models/project.rb"
+			],
+			[
+				"prj",
+				"app/models/project.rb"
+			],
+			[
+				"valida",
+				"app/validators/yesnovalidator.rb"
+			],
+			[
+				"issu",
+				"app/models/issue.rb"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"au",
+				"application/config/autoload.php"
+			],
+			[
+				"index.p",
+				"application/views/eventos/index.php"
+			],
+			[
+				"ati",
+				"application/controllers/atividades.php"
+			],
+			[
+				"ca",
+				"application/views/cabecalho.php"
+			],
+			[
+				"aut",
+				"application/config/autoload.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"index",
+				"application/views/produtos/index.php"
+			],
+			[
+				"usu",
+				"application/models/usuarios_model.php"
+			],
+			[
+				"lo",
+				"application/controllers/login.php"
+			],
+			[
+				"us",
+				"application/controllers/usuarios.php"
+			],
+			[
+				"vend",
+				"application/controllers/vendas.php"
+			],
+			[
+				"mos",
+				"application/views/produtos/mostra.php"
+			],
+			[
+				"inde",
+				"application/views/produtos/index.php"
+			],
+			[
+				"rod",
+				"application/views/rodape.php"
+			],
+			[
+				"ven",
+				"application/controllers/vendas.php"
+			],
+			[
+				"produ",
+				"application/controllers/produtos.php"
+			],
+			[
+				"dat",
+				"application/helpers/date_helper.php"
+			],
+			[
+				"produtos_",
+				"application/models/produtos_model.php"
+			],
+			[
+				"index.php",
+				"application/views/vendas/index.php"
+			],
+			[
+				"venda",
+				"application/models/vendas_model.php"
+			],
+			[
+				"migra",
+				"application/config/migration.php"
+			],
+			[
+				"migr",
+				"application/migrations/002_adiciona_vendido_ao_produto.php"
+			],
+			[
+				"cri",
+				"application/migrations/001_cria_tabela_de_vendas.php"
+			],
+			[
+				"mostr",
+				"application/views/produtos/mostra.php"
+			],
+			[
+				"mi",
+				"application/config/migration.php"
+			],
+			[
+				"congi",
+				"application/config/config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/lampp/htdocs/praquerumo.com.br/praquerumo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}
